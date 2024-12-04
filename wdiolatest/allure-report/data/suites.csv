@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1","hook:","","Thu Nov 28 12:18:40 MST 2024","failed","Thu Nov 28 12:18:40 MST 2024","","","",""
+"","356","Then Validate Amazon Prime logo is displayed","","Thu Nov 28 12:18:37 MST 2024","passed","Thu Nov 28 12:18:37 MST 2024","","Validate Google Page: Validate the Logo","",""
+"","2","hook:","","Thu Nov 28 12:18:36 MST 2024","failed","Thu Nov 28 12:18:36 MST 2024","","","",""
+"","1068","Given Amazon site is open","","Thu Nov 28 12:18:39 MST 2024","passed","Thu Nov 28 12:18:40 MST 2024","","Validate Google Page: Validate the Black Friday text","",""
+"","362","Then Black Friday text displays","","Thu Nov 28 12:18:40 MST 2024","passed","Thu Nov 28 12:18:40 MST 2024","","Validate Google Page: Validate the Black Friday text","",""
+"","1","hook:","","Thu Nov 28 12:18:37 MST 2024","failed","Thu Nov 28 12:18:37 MST 2024","","","",""
+"","1582","Given Amazon site is open","","Thu Nov 28 12:18:35 MST 2024","passed","Thu Nov 28 12:18:37 MST 2024","","Validate Google Page: Validate the Logo","",""
