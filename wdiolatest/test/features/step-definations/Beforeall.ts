@@ -19,6 +19,7 @@ Then(/^Enter text in(.*)$/, async function(searchBox) {
     await addToCartButton.waitForDisplayed({ timeout: 5000 })
     // Click the 'Add to Cart' button
     await addToCartButton.click()
+    console.log("have a good day")
     })
 
 
