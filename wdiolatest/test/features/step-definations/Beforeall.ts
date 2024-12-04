@@ -20,6 +20,7 @@ Then(/^Enter text in(.*)$/, async function(searchBox) {
     // Click the 'Add to Cart' button
     await addToCartButton.click()
     console.log("have a good day")
+    console.log("have a good day 2")
     })
 
 
